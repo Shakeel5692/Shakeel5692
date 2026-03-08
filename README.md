@@ -1,24 +1,24 @@
-## Big 4 Data Scientist Profile
+# Professional Profile
 
-### Overview
-A Data Scientist at one of the Big 4 consulting firms is responsible for analyzing and interpreting complex data sets. They apply statistical methods and advanced analytics to solve business problems and improve decision-making.
+## Summary
+Professional profile showcasing early lapse prediction model using neural networks and deep learning, Power BI dashboard for leadership, complex SQL queries using Amazon Athena, current role as Senior Data Analyst at Ameriprise Financial, and aspiration to work with FAANG companies.
 
-### Key Responsibilities
-- Collecting, cleaning, and processing data from various sources.
-- Conducting exploratory data analysis to identify trends and patterns.
-- Building predictive models and machine learning algorithms.
-- Collaborating with cross-functional teams to implement data-driven solutions.
-- Presenting findings to stakeholders in a clear and concise manner.
+## Projects
+- Early lapse prediction model using neural networks
+- Power BI dashboard for leadership
+- Complex SQL queries using Amazon Athena
 
-### Required Skills
-- Proficiency in programming languages such as Python or R.
-- Strong knowledge of statistical analysis and machine learning techniques.
-- Experience with data visualization tools (e.g., Tableau, Power BI).
-- Excellent communication and presentation skills.
-- Familiarity with big data technologies (e.g., Hadoop, Spark) is a plus.
+## Tech Stack
+- Neural Networks, Deep Learning
+- Power BI
+- SQL, Amazon Athena
 
-### Educational Background
-- Bachelor's or Master's degree in Data Science, Statistics, Computer Science, or a related field.
+## Expertise Areas
+- Data Analysis
+- Predictive Modeling
+- Business Intelligence
 
-### Work Environment
-Data Scientists often work in a collaborative environment, engaging with different departments to leverage data for strategic planning and enhancement of business processes.
+## Professional Links
+- [LinkedIn](<your-linkedin-url>)
+- [GitHub](<your-github-url>)
+- [Portfolio](<your-portfolio-url>)
